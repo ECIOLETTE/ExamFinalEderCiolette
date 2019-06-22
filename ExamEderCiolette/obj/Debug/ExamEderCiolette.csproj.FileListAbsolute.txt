@@ -1,0 +1,10 @@
+C:\Repositories\ExamEderCiolette\ExamEderCiolette\bin\Debug\ExamEderCiolette.exe.config
+C:\Repositories\ExamEderCiolette\ExamEderCiolette\bin\Debug\ExamEderCiolette.exe
+C:\Repositories\ExamEderCiolette\ExamEderCiolette\bin\Debug\ExamEderCiolette.pdb
+C:\Repositories\ExamEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.csprojAssemblyReference.cache
+C:\Repositories\ExamEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.Form1.resources
+C:\Repositories\ExamEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.Properties.Resources.resources
+C:\Repositories\ExamEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.csproj.GenerateResource.cache
+C:\Repositories\ExamEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.csproj.CoreCompileInputs.cache
+C:\Repositories\ExamEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.exe
+C:\Repositories\ExamEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.pdb
